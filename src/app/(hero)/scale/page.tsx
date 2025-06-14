@@ -7,6 +7,6 @@ export const metadata: Metadata = {
 }
 export default function Performance() {
     return (
-        <Hero imgurl={scaleSrc} altTxt="scale" content={"欢迎来到scale！"}/>
+        <Hero imgurl={scaleSrc} altTxt="scale" content={"欢迎来到scale!~~~"}/>
     )
 }
